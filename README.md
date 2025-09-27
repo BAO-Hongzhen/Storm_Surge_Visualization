@@ -7,8 +7,6 @@
 
 Storm_Surge_Visualization/
 
-│
-
 ├── storm_surge_json_extract.py       # 从 JSON 文件中提取风暴潮数据
 
 ├── storm_surge_visualization.py      # 可视化脚本
