@@ -22,23 +22,28 @@ Data Storage: Save extracted results into CSV format for further analysis
 
 Visualization: Generate dynamic wave plots ranked by storm surge data.
 
-  The ranking is displayed in groups of 8
+    The ranking is displayed in groups of 8
 
-  The higher the storm surge, the taller the wave
+    The higher the storm surge, the taller the wave
 
-  Includes small physics-inspired effects (e.g., waves gradually decay or overlap with newly generated waves)
+    Includes small physics-inspired effects (e.g., waves gradually decay or overlap with newly generated waves)
 
 
 📊 Usage
 
 1. Data Extraction
+
 Run the following program to extract storm surge data from JSON files and save it as CSV:
-  storm_surge_json_extract.py
+
+    storm_surge_json_extract.py
 
 2. Data Visualization
+
 Use the extracted CSV file for visualization:
-  storm_surge_visualization.py
-  This will generate a storm surge ranking table.
+
+    storm_surge_visualization.py
+
+This will generate a storm surge ranking table.
 
 
 📈 Example Output
