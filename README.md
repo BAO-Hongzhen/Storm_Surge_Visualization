@@ -2,6 +2,7 @@
 
 本项目提供了从 JSON 数据中提取风暴潮信息，并通过 Python 脚本进行可视化展示的功能。
 
+
 📂 项目结构
 
 代码
@@ -16,6 +17,7 @@ Storm_Surge_Visualization/
 
 ├── Other_Attempt/                    # 其他尝试或实验性代码
 
+
 🚀 功能特性
 
 数据提取：从原始 JSON 文件中筛选并导出关键风暴潮数据
@@ -23,6 +25,7 @@ Storm_Surge_Visualization/
 数据存储：将提取结果保存为 CSV 文件，方便后续分析
 
 可视化展示：利用 Python 脚本绘制风暴潮趋势图、空间分布图等
+
 
 📊 使用方法
 
@@ -34,6 +37,7 @@ storm_surge_json_extract.py
 使用提取后的 CSV 文件进行可视化：
 storm_surge_visualization.py
 可生成风暴潮随时间变化的曲线图、空间分布图等。
+
 
 📈 示例输出
 
