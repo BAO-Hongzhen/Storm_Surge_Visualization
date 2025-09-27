@@ -8,7 +8,7 @@ import random
 wave_line_counter = 0
 
 # --- 读取潮汐数据 ---
-data = pd.read_csv(r'd:/MScIME25/SD5913-PFAD/pfad/week02/tides_processed.csv')
+data = pd.read_csv(r'./tides_processed.csv')
 tide_levels = data['tide_level'].values
 datetimes = data['datetime'].values
 
