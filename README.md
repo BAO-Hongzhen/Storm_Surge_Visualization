@@ -39,4 +39,4 @@ storm_surge_visualization.py
 
 风暴潮时间序列图
 
-<img width="800" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/a9011505-16e3-49aa-b0ff-66dc0171fc99" />
+<img width="800" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/e858da0f-b577-494f-885b-24efd015d2a4" />
