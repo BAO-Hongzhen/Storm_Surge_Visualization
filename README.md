@@ -10,11 +10,11 @@ Storm_Surge_Visualization/
 
 ├── storm_surge_json_extract.py       # 从 JSON 文件中提取风暴潮数据
 
-├── storm_surge_visualization.py      # 可视化脚本
-
 ├── storm_surge_json_selected.csv     # 提取后的示例数据
 
-├── Other_Attempt/                    # 其他尝试或实验性代码
+├── storm_surge_visualization.py      # 对CSV数据进行了筛选后的可视化脚本
+
+├── Other_Attempt/                    # 其他尝试或实验性代码（基于tutorial的内容进行的一些小尝试）
 
 
 🚀 功能特性
@@ -40,6 +40,6 @@ storm_surge_visualization.py
 
 📈 示例输出
 
-风暴潮时间序列图
+风暴潮动态序列表
 
 <img width="800" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/e858da0f-b577-494f-885b-24efd015d2a4" />
