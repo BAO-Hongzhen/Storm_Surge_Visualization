@@ -4,8 +4,6 @@ This project provides functionality for extracting storm surge information from 
 
 📂 Project Structure
 
-Code
-
 Storm_Surge_Visualization/
 
 ├── storm_surge_json_extract.py       # Extract storm surge data from JSON files
